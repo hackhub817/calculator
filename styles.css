@@ -1,0 +1,55 @@
+body{
+    background: linear-gradient( 90deg,red,green,blue,yellow);
+}
+table
+{
+    margin: auto;
+}
+.main
+{
+    text-align: center;
+
+
+}
+.main-contain
+{
+    display: inline-block;
+    background-color: rgba(212, 33, 138, 0.5);
+    padding:10px;
+    height:350px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+     margin-top: 150px;
+}
+h2{
+    color: seashell;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button{
+    background-color: rgba(172, 56, 56, 0.445);
+    color: blanchedalmond;
+    font-size: 23px;
+    width: 60px;
+    height: 50px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+input{
+font-size: 20px;
+border-radius: 10px;
+height: 10px;
+padding: 10px;
+background-color:rgb(rgba(223, 25, 25, 0.075), green, blue) ;
+}
+.calcu
+{
+    display: inline-block;
+    background-color: rgba(38, 62, 134, 0.527);
+    border-radius: 8px;
+    padding:10px;
+}
